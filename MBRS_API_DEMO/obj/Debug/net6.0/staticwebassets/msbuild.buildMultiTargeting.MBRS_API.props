@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MBRS_API.props" />
+</Project>
